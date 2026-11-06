@@ -1,6 +1,6 @@
 # PETRA-Notebook-14-SHAP
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mansoorz353/PETRA-Notebook-14-SHAP/blob/main/PETRA-PPE-AI_Chapter_14_Notebook_14_4_SHAP_Diagnosis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mansoorz353/PETRA-Notebook-14-SHAP/blob/main/Notebook_14_4_SHAP_Diagnosis.ipynb)
 
 This repository contains the code and data supporting **Chapter 14** workflows, focusing on SHAP-based model diagnosis for well performance analysis.
 
